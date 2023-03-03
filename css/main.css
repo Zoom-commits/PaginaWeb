@@ -1,0 +1,102 @@
+body{
+	background: url(../454816.jpg); no-repeat 
+	center center #333;
+	background-size: cover;
+
+
+	color: white;
+
+}
+img{
+	width: 60%;
+	display:block;
+margin:auto;
+}
+.quitar-float{
+	float: none;
+}
+.tam{
+	width: 100%;
+}
+.espacio-arriba{
+	margin-top: 150px;
+}
+.espacio-arriba2{
+	margin-top: 30px;
+}
+.espacio-arriba3{
+	margin-top: 60px;
+}
+
+.espacio-arriba4{
+	margin-top: 100px;
+}
+.espacio-abajo{
+	margin-bottom: 60px;
+}
+.espacio-abajo2{
+	margin-bottom: 40px;
+}
+.espacio-derecha{
+	margin-right: 2em;}
+
+.espacio-derecha2{
+	margin-right: 3em;
+}
+
+.espacio-izquierda{
+	margin-left: 3em;
+}
+.espacio-izquierd2{
+	margin-left: 8em;
+}
+
+.miletra{
+	font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Lobster', cursive;
+}
+.miletra2{
+font-family: 'Josefin Sans', sans-serif;
+}
+.miletra3{
+	font-family: 'Comfortaa', cursive;
+}
+
+
+.nlista li{
+	list-style-type: none;
+}
+.colormen{
+	background-color:#0A2A29;
+}
+.padding-largo{
+	padding: 10px 10px;
+}
+.inline-block{
+	float: none;
+	display: inline-block;
+}
+.lettam{
+font-size: 3em;
+}
+.lettam2{
+font-size: 2em;
+}
+.lettam3{
+font-size: 1.3em;
+}
+.lettam4{
+	font-size: 1.2em;
+}
+.subir{
+	vertical-align: top;
+}
+.justificar{
+	text-align: justify;
+}
+.espacio{
+	vertical-align: 4em;
+}
+.centrar{
+	text-align: center;
+}
